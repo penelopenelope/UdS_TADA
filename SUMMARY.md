@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [ReadMe](README.md)
+* [Assignment 2](assignment-2.md)
 
